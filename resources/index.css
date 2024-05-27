@@ -1,0 +1,51 @@
+.In{
+
+/* text-align: center; */
+margin-top: 75px;
+
+}
+
+
+body{
+
+    background-color:lightblue;
+
+
+}
+
+h1{
+
+text-align: center;
+
+
+}
+
+#Goal{
+font-size: 80px;
+color: white;
+
+
+}
+
+
+.stats{
+background-color: aliceblue;
+border: 15px hidden ;
+
+padding-bottom: 10px;
+
+
+}
+
+
+.googleimage{
+
+font-size: 5px;
+
+}
+
+image{
+    font-size: 25px;
+
+
+}
