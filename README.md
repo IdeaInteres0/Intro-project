@@ -3,4 +3,4 @@ This is my first public HTML project.
 I have create it based on what I want to acheive in CS.
 Examples some of the goals such as:
 -Learning how to program more effectively.
--Also how everything I learn to create my very own startup.
+-Also how to learn to create my very own startup.
